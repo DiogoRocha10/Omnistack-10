@@ -1,7 +1,7 @@
 aside {
     width: 320px;
-    background: #FFF;
-    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.02);
+    background: rgba(2, 46, 44, 0.76);
+    box-shadow: 0 0 14px 0 rgba(49, 182, 55, 0.705);
     border-radius: 2px;
     padding: 30px 20px;
 }
@@ -10,6 +10,6 @@ aside strong {
     font-size: 20px;
     text-align: center;
     display: block;
-    color: #333;
+    color: #1ed760;
 }
 
