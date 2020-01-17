@@ -1,0 +1,28 @@
+SEMANA OMNISTACK
+anotações BACKEND --> NODEJS
+----------------------------------------------------------
+send() = texto 
+response = resposta do front
+request = requisição 
+listen(porta navegador)
+nodemon para atualizar as alterações
+package.json configurar script para rodar mais rápido
+query.params: (req.query)-- filtros, ordenação, paginação
+route.params: (req.params) identificar alteração ou remoção
+body: corpo da estrutura
+async: pode demorar a resposta
+await: que vai esperar ate a req voltar
+------------------------
+METODOS HTTP
+get(receber informação)
+post(criar informação)
+put(editar informação)
+delete(deletar informação)
+
+
+
+
+
+----------------------------------------------------------
+anotações FRONTEND --> REACT
+----------------------------------------------------------
